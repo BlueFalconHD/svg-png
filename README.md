@@ -30,6 +30,8 @@ Project was built using **HTML**, **CSS** and **VanillaJS** but what is it?
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
+https://github.com/jhonywalkeer/svg-png.git
+
 $ cd svg-png
 $ code .
 ```
